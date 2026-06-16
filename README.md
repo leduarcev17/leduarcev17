@@ -5,14 +5,14 @@
   - Interested in Backend Engineering, Cloud Computing, and Distributed Systems💻
   - Seeking Software Engineering Internships
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,nodejs,express,mongodb&theme=light&perline=5" />
   </a>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leduarcev17&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leduarcev17&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
